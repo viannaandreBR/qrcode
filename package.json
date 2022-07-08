@@ -18,7 +18,7 @@
   "dependencies": {
     "i18n-js": "^3.1.0",
     "lodash": "^4.17.11",
-    "moment": "^2.22.2",
+    "moment": "^2.29.4",
     "moment-timezone": "^0.5.23",
     "react": "16.6.1",
     "react-native": "0.57.5",
